@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background: #f5f6fa;
+    color: #2f3640;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#cases {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.case {
+    padding: 15px;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.case h2 {
+    margin: 0 0 5px;
+}
+
+.case small {
+    color: #718093;
+}
