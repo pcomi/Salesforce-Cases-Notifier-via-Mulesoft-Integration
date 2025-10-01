@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-cases-integration-flow",
+  "minMuleVersion": "4.9.0",
+  "javaSpecificationVersions": [
+    "17"
+  ]
+}
